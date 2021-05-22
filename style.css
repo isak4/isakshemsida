@@ -28,7 +28,7 @@
   font-size: 60px;
   color: black;
   top: 140px;
-  position: relative;
+  position: sticky;
   left: 50px;
 }
 .Text4 {
