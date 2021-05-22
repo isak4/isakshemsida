@@ -56,7 +56,7 @@
 .laser {
   top: 200px;
   position: absolute;
-  border-radius: 75px;
+  border-radius: 300px;
   left: 1400px;
 }
 .coffee {
