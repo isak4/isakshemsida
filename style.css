@@ -19,44 +19,31 @@
   font-family: "Orelega One", cursive;
   font-size: 30px;
   color: rgb(51, 32, 26);
-  top: 290px;
+  top: 140px;
   position: relative;
   left: 50px;
 }
-.Text7 {
-  font-family: "Orelega One", cursive;
-  font-size: 60px;
-  color: black;
-  top: 140px;
-  position: sticky;
-  left: 50px;
-}
+
 .Text4 {
   font-family: "Orelega One", cursive;
   font-size: 30px;
   color: rgb(51, 32, 26);
-  top: 310px;
+  top: 160px;
   position: relative;
   left: 50px;
 }
+
 .Text5 {
   font-family: "Orelega One", cursive;
   font-size: 30px;
   max-width: 200px;
   max-height: 50px;
   color: rgb(51, 32, 26);
-  top: 290px;
-  position: relative;
-  left: 65px;
-}
-.Text6 {
-  font-family: "Orelega One", cursive;
-  font-size: 60px;
-  color: black;
   top: 140px;
   position: relative;
-  left: 65px;
+  left: 50px;
 }
+
 .rocket {
   top: 190px;
   position: absolute;
