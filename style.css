@@ -59,6 +59,12 @@
   border-radius: 300px;
   left: 1400px;
 }
+.water {
+  top: 1000px;
+  position: absolute;
+  border-radius: 300px;
+  left: 100px;
+}
 .coffee {
   position: static;
   height: 1351px;
