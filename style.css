@@ -19,7 +19,15 @@
   font-family: "Orelega One", cursive;
   font-size: 30px;
   color: rgb(51, 32, 26);
-  top: 180px;
+  top: 290px;
+  position: relative;
+  left: 50px;
+}
+.Text7 {
+  font-family: "Orelega One", cursive;
+  font-size: 60px;
+  color: black;
+  top: 140px;
   position: relative;
   left: 50px;
 }
@@ -27,7 +35,7 @@
   font-family: "Orelega One", cursive;
   font-size: 30px;
   color: rgb(51, 32, 26);
-  top: 200px;
+  top: 310px;
   position: relative;
   left: 50px;
 }
@@ -43,7 +51,7 @@
 }
 .Text6 {
   font-family: "Orelega One", cursive;
-  font-size: 40px;
+  font-size: 60px;
   max-width: 200px;
   max-height: 50px;
   color: black;
