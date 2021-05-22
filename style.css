@@ -37,6 +37,16 @@
   max-width: 200px;
   max-height: 50px;
   color: rgb(51, 32, 26);
+  top: 200px;
+  position: relative;
+  left: 65px;
+}
+.Text6 {
+  font-family: "Orelega One", cursive;
+  font-size: 40px;
+  max-width: 200px;
+  max-height: 50px;
+  color: rgb(51, 32, 26);
   top: 140px;
   position: relative;
   left: 65px;
