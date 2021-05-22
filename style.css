@@ -66,16 +66,13 @@
   left: 100px;
 }
 
-.fontan
-{
+.fontan {
   top: 1000px;
   position: absolute;
   border-radius: 300px;
   left: 1400px;
 }
 
-
-}
 .coffee {
   position: static;
   height: 1351px;
